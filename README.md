@@ -1,4 +1,10 @@
 # monVoca Backend
+
+<br>
+github링크: https://github.com/kjeok00/monvoca_backend.git
+<br>
+<br>
+
 > AI 기술을 접목한 스마트 단어장 및 학습 관리 플랫폼
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-6DB33F?style=flat-square&logo=springboot)
